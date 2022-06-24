@@ -1,10 +1,8 @@
 # JavaScript & DOM Manipulation - UFOs
 
-https://abgondin.github.io/javascript-challenge/
-
 ## Background
 
-A code that creates a dynamic table based upon a dataset containing UFO sightings. Users can filter the table data for specific values.
+A javascript code that creates a dynamic table based upon a dataset containing UFO sightings. Users can filter the table data for specific values.
 
 ## Skills
 
@@ -17,3 +15,7 @@ A basic HTML web page with JavaScript code that listens for events and search th
 ## UFO Level 2: Multiple Search Categories
 
 Another HTML web page with Javascript code that uses multiple input tags and/or select dropdowns, so the user can to set multiple filters to search for UFO sightings.
+
+### Demo Page
+
+https://abgondin.github.io/javascript-challenge/
